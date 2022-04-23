@@ -1,7 +1,5 @@
-<img src="https://raw.githubusercontent.com/PradyumnaKrishna/PradyumnaKrishna/master/logo.svg" align="right" height="50" width="50"/>
-
-# Colab Hacks [![License: MIT][License-Badge]](LICENSE.md)
-Simple Hacks for Google Colaboratory to boost your productivity and help you to perform daily tasks.
+# Colab Hacks By Truthfuly [![License: MIT][License-Badge]](LICENSE.md)
+Simple Hacks for Google Colaboratory to boost your productivity.
 
 
 ## [Colab RDP](Colab%20RDP/Colab%20RDP.ipynb) &nbsp;&nbsp; [![Open in Colab][Colab Badge]][RDP Notebook] [![RDP Issues][RDP Issues]](https://github.com/PradyumnaKrishna/Colab-Hacks/issues/labels/Colab%20RDP)
